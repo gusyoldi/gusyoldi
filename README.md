@@ -15,6 +15,7 @@ Me gusta desarrollar features end-to-end, construir interfaces escalables y trab
 
 ## 🚀 Proyectos
 
+- 🛖 The Wild Oasis: https://the-wild-oasis-intern.vercel.app/login
 - 🍕 React Pizza: https://react-pizza-gus.netlify.app/
 - 📚 Compartí un dato: https://comparti-un-dato-gustavoyoldi.netlify.app/
 - 🎵 Ochenta Noventa: https://ochentanoventa.com.ar
