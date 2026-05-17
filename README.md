@@ -11,3 +11,12 @@ Me gusta desarrollar features end-to-end, construir interfaces escalables y trab
 - 🎷 Dato curioso: también soy saxofonista profesional
 - 🌐 Portfolio: [gusyoldi.github.io/Porfolio](https://gusyoldi.github.io/Porfolio/)
 - 📫 Contacto: yoldi.gustavo@gmail.com
+
+
+## 🚀 Proyectos
+
+- 🍕 React Pizza: https://react-pizza-gus.netlify.app/
+- 📚 Compartí un dato: https://comparti-un-dato-gustavoyoldi.netlify.app/
+- 🎵 Ochenta Noventa: https://ochentanoventa.com.ar
+- 🎮 Todo o Nada: https://pig-game-gus.netlify.app/
+- ⚽ Liga EDEFI: https://web.edefi.com.ar/
