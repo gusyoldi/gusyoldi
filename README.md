@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Soy Gustavo Yoldi, desarrollador frontend con experiencia creando aplicaciones web modernas utilizando React, Next.js y TypeScript.
+Soy Gustavo, desarrollador frontend con experiencia creando aplicaciones web modernas utilizando React, Next.js y TypeScript.
 
 Me gusta desarrollar features end-to-end, construir interfaces escalables y trabajar con APIs mediante arquitecturas tipo BFF.
 
